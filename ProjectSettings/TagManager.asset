@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Laser
+  - Missile
+  - Fire PowerUP
+  - Coin PowerUP
+  - Spawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Player Bullet
+  - Enemy Bullet
+  - Power UP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1174531213
+    locked: 0
+  - name: PowerUPs
+    uniqueID: 762638725
+    locked: 0
+  - name: Planes
+    uniqueID: 3158920777
+    locked: 0
+  - name: Weapons
+    uniqueID: 606781355
+    locked: 0
+  - name: VFX
+    uniqueID: 3240024103
+    locked: 0
+  - name: Canvas
+    uniqueID: 3475316575
+    locked: 0
